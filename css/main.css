@@ -30,7 +30,7 @@ body {
   height: 100%; }
 
 body {
-  background: url(../img/Bear_Background.jpg) no-repeat center center fixed;
+  background: url(../img/Bear_Background01.jpg) no-repeat center center fixed;
   background-size: cover;
   color: #fff;
   text-align: center;
@@ -125,7 +125,8 @@ video {
 .cover-copy {
   max-width: 500px;
   font-size: 1rem;
-  margin: 0 auto 3rem; }
+  margin: 0 auto 1.5rem;
+  }
 
 @media (min-width: 768px) {
   .cover-heading {
